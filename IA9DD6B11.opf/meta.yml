@@ -1,0 +1,49 @@
+id: IA9DD6B11
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:50:03.514157'
+last_modified: '2022-05-30T20:50:03.514169'
+parser: null
+source_metadata:
+  title: Gampopa Series
+  language: en
+  description: 'Texts by and about Gampopa Sonam Rinchen (sgam po pa bsod nams rin
+    chen, 1079–1153), the famous master credited with founding the Kagyü school of
+    Tibetan Buddhism:'
+  volume:
+    f8FFB:
+      title: A Combined Guru Yoga for Marpa, Mila, and Gampopa
+      base_file: f8FFB.txt
+      order: 1
+      parent: Guru Yoga
+    f188E:
+      title: 'A Drop of Jewels: A Guru Yoga for Lord Gampopa'
+      base_file: f188E.txt
+      order: 2
+      parent: Guru Yoga
+    fD059:
+      title: 'Vajra Net: The Ancillary Preliminary and Concluding Practices for the
+        Three Drops, the Guru Yogas for Venerable Marpa, Mila, and Gampopa'
+      base_file: fD059.txt
+      order: 3
+      parent: Guru Yoga
+    f6174:
+      title: 'A Precious Garland for the Supreme Path of the Three Types of Individual:
+        The Root of Dakpo''s Four Dharmas'
+      base_file: f6174.txt
+      order: 4
+      parent: Lamrim
+    fBA6D:
+      title: 'The Melody of Complete Accomplishment: A Prayer to Those Praised as
+        Ornaments of the Practice Lineage'
+      base_file: fBA6D.txt
+      order: 5
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
